@@ -1,4 +1,3 @@
-# Clustering-of-News-Articles-Data-set
 # Brief Introduction
 
 Objective of this project was to train a clustering-based model to extract top 50 words from each cluster from a json dataset having news articles of mixed topics including business, entertainment, politics, sports, technology, but without labels. 
