@@ -3,7 +3,7 @@
 Objective of this project was to train a clustering-based model to extract top 50 words from each cluster from a json dataset having news articles of mixed topics including business, entertainment, politics, sports, technology, but without labels. 
 
 The project involved performing dimensionality reduction and unsupervised learning over the dataset and then analyzing the most frequently occurring words of all the clusters.
-K-Means clustering, Principal component analysis algorithms were used.
+K-Means Clustering, Principal Component Analysis algorithms were used.
 
 # Details about the project
 
